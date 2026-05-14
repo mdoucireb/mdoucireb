@@ -1,16 +1,19 @@
-## Hi there 👋
+# Mamadou Ciré Bah
 
-<!--
-**mdoucireb/mdoucireb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Full-Stack / Backend Junior spécialisé en développement web moderne, APIs REST et sécurité applicative.
 
-Here are some ideas to get you started:
+## Technologies
+- React / React Native
+- FastAPI / Django
+- PostgreSQL / Supabase
+- Docker / CI-CD
+- Azure DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+- SecureTrack
+- Afrobox POS
+- Chips Factory
+- Budget & Dépenses
+
+## Portfolio
+https://portfolio-mamadou-two.vercel.app
